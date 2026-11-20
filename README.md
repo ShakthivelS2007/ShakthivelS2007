@@ -1,4 +1,4 @@
-<!-- Replace YOUR_USERNAME, YOUR_LINKEDIN and YOUR_EMAIL before publishing -->
+<!-- Replace ShakthivelS2007, YOUR_LINKEDIN and YOUR_EMAIL before publishing -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Shakthivel%20S&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=student%20%C2%B7%20builder%20%C2%B7%20always%20learning%20%E2%9C%A8&descSize=17&descAlignY=60" />
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=F472B6&center=true&vCenter=true&width=620&lines=%3E+hello+world+%F0%9F%91%8B;%3E+building+small+things+that+work+%F0%9F%9B%A0%EF%B8%8F;%3E+learning+something+new+(again)+%E2%98%95;%3E+status%3A+debugging+%F0%9F%90%9B" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=F472B6&center=true&vCenter=true&width=620&lines=%3E+hello+world+%F0%9F%91%8B;%3E+building+small+things+that+work+%F0%9F%9B%A0%EF%B8%8F;%3E+learning+something+new+(again);%3E+status%3A+debugging+%F0%9F%90%9B" alt="typing" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 ## 👩‍💻 About me &nbsp;·&nbsp; `README.md`
 
 > 💫 Second-year **B.E. Computer Science** student at **Rajalakshmi Institute of Technology**.
-> 🧪 I like machine learning, and I'm part of the **ZF Centre for Advanced Data Analytics**, where I'm learning by working on materials-discovery models.
+> 🧪 I like machine learning and enjoy trying out new models on interesting problems.
 > 🌐 I also build practical apps, like a smart printing system for my college print centre.
 > 🖥️ Happiest when something I built actually runs.
 
@@ -31,7 +31,7 @@
 class Shakthivel:
     year     = "2nd year CS"
     into     = ["machine learning", "web apps", "building useful stuff"]
-    fuel     = "chai + late-night debugging"
+    fuel     = "late-night debugging"
     status   = "learning, building, repeat ✨"
 ```
 
@@ -75,13 +75,13 @@ class Shakthivel:
 ## 📊 Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=f472b6&text_color=c0caf5&icon_color=7dcfff&border_color=7aa2f7" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&bg_color=1a1b27&title_color=f472b6&text_color=c0caf5&border_color=7aa2f7" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ShakthivelS2007&show_icons=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=f472b6&text_color=c0caf5&icon_color=7dcfff&border_color=7aa2f7" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakthivelS2007&layout=compact&langs_count=6&bg_color=1a1b27&title_color=f472b6&text_color=c0caf5&border_color=7aa2f7" />
 </div>
 
 ---
 
 <p align="center">📫 Always up for project ideas and collabs<br>
-<sub>made with 💗 and a lot of chai</sub></p>
+<sub>made with 💗 and a lot of debugging</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" width="100%" />
