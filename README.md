@@ -1,22 +1,21 @@
 <!-- Replace YOUR_USERNAME, YOUR_LINKEDIN and YOUR_EMAIL before publishing -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=190&section=header&text=Shakthivel%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=teaching%20neural%20nets%20to%20read%20crystals%20%E2%9C%A8&descSize=17&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Shakthivel%20S&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=student%20%C2%B7%20builder%20%C2%B7%20always%20learning%20%E2%9C%A8&descSize=17&descAlignY=60" />
 </p>
 
 <h3 align="center">Hii, I'm Shakthivel <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="26px"> 🌸</h3>
-<h4 align="center">CS Student @ RIT &nbsp;|&nbsp; ML Researcher &nbsp;|&nbsp; Computer Vision Builder</h4>
+<h4 align="center">CS student @ RIT &nbsp;|&nbsp; Python + web dev &nbsp;|&nbsp; AI/ML enthusiast</h4>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=F472B6&center=true&vCenter=true&width=620&lines=%3E+loading+equivariant+graph+neural+nets...;%3E+predicting+battery+materials+%E2%9A%97%EF%B8%8F;%3E+making+buses+spot+potholes+%F0%9F%9A%8C;%3E+status%3A+training+(again)+%E2%98%95" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1100&color=F472B6&center=true&vCenter=true&width=620&lines=%3E+hello+world+%F0%9F%91%8B;%3E+building+small+things+that+work+%F0%9F%9B%A0%EF%B8%8F;%3E+learning+something+new+(again)+%E2%98%95;%3E+status%3A+debugging+%F0%9F%90%9B" alt="typing" />
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/SIH%202026-Team%20Arsene-bb9af7?style=for-the-badge" />
 </p>
 
 ---
@@ -24,16 +23,16 @@
 ## 👩‍💻 About me &nbsp;·&nbsp; `README.md`
 
 > 💫 Second-year **B.E. Computer Science** student at **Rajalakshmi Institute of Technology**.
-> 🔬 Research assistant at the **ZF Centre for Advanced Data Analytics**, building neural architectures for chemical structure prediction and AI-driven materials discovery.
-> 🚌 Team leader of **Team Arsene** at Smart India Hackathon 2026, turning bus cameras into a road-hazard sensing network.
-> 🖥️ Fun with big training runs: I like squeezing the most out of limited compute.
+> 🧪 I like machine learning, and I'm part of the **ZF Centre for Advanced Data Analytics**, where I'm learning by working on materials-discovery models.
+> 🌐 I also build practical apps, like a smart printing system for my college print centre.
+> 🖥️ Happiest when something I built actually runs.
 
 ```python
 class Shakthivel:
-    role     = "ML Developer & Researcher"
-    loves    = ["geometric deep learning", "computer vision", "shipping models that actually run"]
-    fuel     = "chai + GPU hours"
-    status   = "currently training something ✨"
+    year     = "2nd year CS"
+    into     = ["machine learning", "web apps", "building useful stuff"]
+    fuel     = "chai + late-night debugging"
+    status   = "learning, building, repeat ✨"
 ```
 
 ---
@@ -47,30 +46,29 @@ class Shakthivel:
     <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
     <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
   </kbd>
-  <kbd><kbd>⚙️ Backend</kbd><br><br>
+  <kbd><kbd>🌐 Web</kbd><br><br>
+    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
     <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   </kbd>
-  <kbd><kbd>🛠️ Tools</kbd><br><br>
+  <kbd><kbd>🛠️ Basics</kbd><br><br>
+    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   </kbd>
 </p>
 
-<p align="center"><sub>Also: PyTorch Geometric · YOLOv8 · ByteTrack · PostGIS · Transfer Learning · Render</sub></p>
-
 ---
 
-## 🚀 Featured projects
+## 🚀 Things I've built
 
-| | Project | What it does |
+| | Project | What it is |
 |---|---|---|
-| ⚛️ | **ChemAI** *(ongoing)* | Custom E(3)-equivariant GNN predicting 6 battery-relevant properties from crystal structure. Multi-task masked loss, Materials Project + OBELiX data, ~0.83 eV MAE on band gap. |
-| 🚌 | **Urban Intelligence Platform** | SIH 2026. Bus cameras detect potholes, traffic congestion and damaged signs, then report geotagged results via FastAPI + PostGIS. |
-| 🌿 | **BioLens** | Plant disease diagnosis from leaf photos with 89%+ accuracy. MobileNetV2 transfer learning, deployed on Render. |
-
-<sub>`PyTorch Geometric` `YOLOv8` `ByteTrack` `FastAPI` `PostGIS` `MobileNetV2` `Render`</sub>
+| 🖨️ | **PaperSync** | Smart printing system for my college print centre. Students scan a QR code, upload a PDF, pay via UPI and track the order live, while the shopkeeper manages the queue. Built with React, Spring Boot, WebSockets and Razorpay. |
+| 🌿 | **BioLens** | Plant disease detector: upload a leaf photo and get a diagnosis. MobileNetV2 transfer learning, FastAPI backend, deployed on Render. |
+| 🚌 | **Urban Intelligence Platform** | Smart India Hackathon 2026 project with Team Arsene. Detects potholes, traffic and damaged signs from bus camera footage using YOLOv8 and ByteTrack. |
+| ⚛️ | **ChemAI** *(in progress)* | A graph neural network experiment that predicts properties of battery materials from crystal structures. Still learning and iterating on this one. |
 
 ---
 
@@ -81,13 +79,9 @@ class Shakthivel:
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&bg_color=1a1b27&title_color=f472b6&text_color=c0caf5&border_color=7aa2f7" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&background=1a1b27&ring=f472b6&fire=f472b6&currStreakLabel=7dcfff&sideLabels=c0caf5&currStreakNum=c0caf5&sideNums=c0caf5&dates=c0caf5&stroke=7aa2f7&border=7aa2f7" />
-</p>
-
 ---
 
-<p align="center">📫 Open to research collaborations, hackathon teams and interesting ML problems<br>
-<sub>made with 💗 and a lot of GPU hours</sub></p>
+<p align="center">📫 Always up for project ideas and collabs<br>
+<sub>made with 💗 and a lot of chai</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" width="100%" />
